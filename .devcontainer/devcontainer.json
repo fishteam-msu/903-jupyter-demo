@@ -1,0 +1,5 @@
+{
+  "image": "ghcr.io/devcontainers/templates/miniconda:2.0.2",
+  "features": {
+  }
+}
