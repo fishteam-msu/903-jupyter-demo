@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/devcontainers/templates/miniconda:2.0.2",
-  "features": {
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": { "ghcr.io/devcontainers/features/conda:1": { "addCondaForge": true}
   }
 }
